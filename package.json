@@ -1,0 +1,35 @@
+{
+  "name": "numspy",
+  "version": "1.0.0",
+  "description": "get the information about any number , based on truecaller ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekrvert/numspy.git"
+  },
+  "keywords": [
+    "truecaller",
+    "node",
+    "js",
+    "information",
+    "gathering",
+    "princekrvert",
+    "termux-tool",
+    "kali",
+    "linux"
+  ],
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekrvert/numspy/issues"
+  },
+  "homepage": "https://github.com/princekrvert/numspy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "prompt-sync": "^4.0.0",
+    "truecallerjs": "^1.0.11"
+  }
+}
