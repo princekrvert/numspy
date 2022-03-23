@@ -15,5 +15,5 @@
 * `./setup.sh`
 * > After login run the numspy.sh file 
 * ./numspy.sh 
-* 
+
 
