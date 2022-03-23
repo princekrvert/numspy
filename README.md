@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/56459297/159644106-a148d26b-e3af-4d76-bf1d-3e5a4f3018dc.png" alt="Ininja">
 <a href="https://img.shields.io/badge/PRINCE-KUMAR-green" ><img  src="https://img.shields.io/badge/PRINCE-KUMAR-green"></a>  <a href="#" ><img  src="https://img.shields.io/badge/NUM-SPY-red"></a>  <a href="#"><img src="https://img.shields.io/badge/MADE%20WITH%20-BASH-yellow"></a></p>
 <h2> Installation cmd </h2>
+
 * `apt update && apt upgrade`
 * `pkg install git`
 * `git clone https://github.com/princekrvert/numspy.git `
