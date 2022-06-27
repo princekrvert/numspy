@@ -8,7 +8,8 @@ if [ ${os} == "Android" ];then
     pkg update && pkg upgrade 
     pkg install nodejs-lts -y
     pkg install npm
-    npm install dotenv truecallerjs 
+    npm install dotenv 
+    npm install -g  truecallerjs
     echo -e "\033[35;1m Login into trucaller account: "
     truecallerjs login
 elif [ ${os} == "GNU/Linux" ];then
@@ -16,6 +17,7 @@ elif [ ${os} == "GNU/Linux" ];then
     sudo apt install nodejs 
     sudo apt-get install npm
     npm install dotenv truecallerjs
+    npm install -g  truecallerjs
     echo -e "\033[35;1m Login into trucaller account: "
     sudo truecallerjs login
 else 
